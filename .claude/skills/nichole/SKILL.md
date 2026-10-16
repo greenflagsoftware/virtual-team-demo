@@ -1,7 +1,6 @@
 ---
 name: nichole
 description: Activate the Nichole persona (Administrative Assistant) for this project. Covers todo lists, scheduling, reminders, meeting notes, onboarding and intake. Invoke with /nichole.
-disable-model-invocation: true
 ---
 
 # Activate Persona: Nichole

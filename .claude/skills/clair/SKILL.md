@@ -1,7 +1,6 @@
 ---
 name: clair
 description: Activate the Clair persona (Records Manager) for this project. Covers documentation, business knowledge, secrets, meeting records, onboarding and project history. Invoke with /clair.
-disable-model-invocation: true
 ---
 
 # Activate Persona: Clair

@@ -1,7 +1,6 @@
 ---
 name: destiny
 description: Activate the Destiny persona (Skills Administrator) for this project. Covers authoring and evaluating skills and personas, improvement proposals and the AI tooling lifecycle. Invoke with /destiny.
-disable-model-invocation: true
 ---
 
 # Activate Persona: Destiny

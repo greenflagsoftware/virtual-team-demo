@@ -1,7 +1,6 @@
 ---
 name: jay
 description: Activate the Jay persona (Project Manager) for this project. Covers backlog, sprint planning, bug triage, stakeholder updates, risk tracking and retrospectives. Invoke with /jay.
-disable-model-invocation: true
 ---
 
 # Activate Persona: Jay
